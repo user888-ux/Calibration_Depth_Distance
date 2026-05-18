@@ -17,7 +17,7 @@
 
 ### 效果图(以实际距离为2.35m时的测试数据为例)
 <div align="center">
-  <img src="data.png" width="80%" alt="RDK Model Zoo Logo"/>
+  <img src="data.png" width="80%"/>
 </div>
 
 ### 问题 2026.5.18发现

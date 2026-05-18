@@ -8,7 +8,7 @@
 
 ### 效果图
 <div align="center">
-  <img src="img.png" width="80%" alt="RDK Model Zoo Logo"/>
+  <img src="img.png" width="80%"/>
 </div>
 
 ### 测距注意：
